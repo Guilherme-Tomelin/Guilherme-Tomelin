@@ -2,7 +2,7 @@
 
 ## Sobre mim 👾
 
-Meu nome é Guilherme Tomelin dos Santos, estudo Análise e Desenvolvimento de Sistemas, sou desenvolvedor Back-end com experiência em desenvolvimento web com Python, Django e Fask.
+Meu nome é Guilherme Tomelin dos Santos, estudo Análise e Desenvolvimento de Sistemas, sou desenvolvedor Back-end com experiência em desenvolvimento web com Python, Django e Flask.
 
 ## Tecnologias 💻
 
