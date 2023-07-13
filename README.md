@@ -6,7 +6,7 @@ Meu nome é Guilherme Tomelin dos Santos, estudo Análise e Desenvolvimento de S
 
 ## Tecnologias 💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Tomelin&layout=donut&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Tomelin&layout=donut)
 <div style="display: inline_block"><br>
     <img style="margin-right: 3px;" align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img style="margin-right: 3px;" align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
